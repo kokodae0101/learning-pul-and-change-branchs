@@ -1,6 +1,28 @@
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
+        System.out.println("I'm Dastan");
         System.out.println("agferga");
         System.out.println("agferga");
         System.out.println("agferga");
